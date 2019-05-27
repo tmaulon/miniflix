@@ -4,6 +4,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Next, we use : 
+  ### auth0-js
+    For authentication 
+  ### react-router 
+    For routing within our app 
+  ### jwt-decode 
+    For decoding the JSON Web Token in our app 
+  ### axios 
+    For making network requests.
+
 ## Available Scripts
 
 In the project directory, you can run:
